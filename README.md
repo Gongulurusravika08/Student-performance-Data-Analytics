@@ -1,4 +1,3 @@
-# Student-performance-Data-Analytics
 # Student Performance Data Analytics
 
 This project analyzes student academic performance using Python and data analytics techniques.
